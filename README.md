@@ -1,4 +1,4 @@
-# asset_transformation
+# Asset Transformation
 
 This project demonstrates the asset transformation feature. It includes an example
 of a custom Dart package that can be used as an asset transformer. It also shows
